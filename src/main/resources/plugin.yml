@@ -1,0 +1,4 @@
+name: Vaulttest
+version: '${project.version}'
+main: ubiquitaku.vaulttest.Vaulttest
+api-version: 1.19
